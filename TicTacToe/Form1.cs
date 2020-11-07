@@ -15,7 +15,7 @@ namespace TicTacToe
         bool turn = true; // true - X's turn , false - O's turn
         int turn_Count = 0;
         //static string player1, player2;
-
+        //making changes to the program
         public Form1()
         {
             InitializeComponent();
